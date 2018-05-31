@@ -1,0 +1,25 @@
+11 13
+1 2 2
+1 3 3
+2 4 5
+3 4 4
+4 5 1
+5 1 -7
+6 7 -1
+7 6 -1
+2 8 0
+8 9 0
+9 10 0
+10 11 0
+11 2 1
+1 5
+
+Output for part c:
+2
+
+Output for part d:
+1 2 4 5
+1 3 4 5
+
+Note that in this graph, there is a negative cycle 6-->7-->6,
+but the cycle is not reachable from the source 1.

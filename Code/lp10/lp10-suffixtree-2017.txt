@@ -1,0 +1,14 @@
+
+CS 6301.502. Implementation of advanced data structures and algorithms
+Fall 2017
+Long Project 10: Suffix trees
+Fri, Nov 17, 2017
+
+Version 1.0: Initial description (Fri, Nov 17).
+
+Due: 11:59 PM, Sun, Dec 10.
+
+Max marks: 100. No excellence credit.
+
+1. Implement the algorithm to construct a suffix tree, discussed in class.
+   Use it to solve the problem of finding a longest repeated substring.
